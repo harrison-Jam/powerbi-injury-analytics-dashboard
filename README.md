@@ -77,7 +77,7 @@ and cost drivers.
 ---
 
 ## 📂 Files
-- Power BI file: `powerbi/Injury_Analytics_Dashboard.pbix`
+- Power BI file: [`powerbi/Injury_Analytics_Dashboard.pbix`](https://app.powerbi.com/view?r=eyJrIjoiOTMzYmJjOTEtYjRlYS00NDNkLThkZDYtMjA0MDRjNjRiZThlIiwidCI6IjUyZWZjMWQ0LThmYTItNGVmZS05YTdhLWU4OGFhYjg1N2UwNyJ9)
 
 
 ---
